@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException
 import logging
 
 
-app = FastAPI(title="Calculadora API")
+app = FastAPI(title="Calculadora API ssss")
 
 logger = logging.getLogger("Calc Logger")
 logging.basicConfig(
